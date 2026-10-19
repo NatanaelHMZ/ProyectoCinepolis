@@ -13,6 +13,9 @@ public class Principal {
 		
 		Scanner lectura = null;
 		
+		// Probar conexion con Git Hub
+		System.out.println("Hola Mundo agregando cambios");
+		
 		String nombre;
 		String categoria;
 		float precio;
